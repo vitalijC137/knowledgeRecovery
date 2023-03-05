@@ -1,4 +1,4 @@
-package com.stringBufferStringBuilder.varioustMethods;
+package com.varioustMethods;
 
 public class ToLowerCase {
     public void toLowerCaseMethod() {
