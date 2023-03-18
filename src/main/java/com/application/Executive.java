@@ -1,5 +1,7 @@
 package com.application;
 
+import com.comparableComparator.ComparableComparatorExploration;
+
 import java.io.IOException;
 
 public class Executive {
@@ -104,6 +106,10 @@ public class Executive {
         // file
         // FileExploration fileExploration = new FileExploration();
         // fileExploration.executive();
+
+        // comparable, comparator
+        ComparableComparatorExploration comparableComparatorExploration = new ComparableComparatorExploration();
+        comparableComparatorExploration.executive();
 
     }
 }
