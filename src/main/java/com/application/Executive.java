@@ -108,8 +108,8 @@ public class Executive {
         // fileExploration.executive();
 
         // comparable, comparator
-        ComparableComparatorExploration comparableComparatorExploration = new ComparableComparatorExploration();
-        comparableComparatorExploration.executive();
+        // ComparableComparatorExploration comparableComparatorExploration = new ComparableComparatorExploration();
+        // comparableComparatorExploration.executive();
 
     }
 }
