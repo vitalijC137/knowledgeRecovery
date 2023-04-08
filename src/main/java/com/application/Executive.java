@@ -1,6 +1,8 @@
 package com.application;
 
 import com.comparableComparator.ComparableComparatorExploration;
+import com.interfaceExploration.FunctionalInterfaceExploration;
+import com.regularExpression.RegExExploration;
 
 import java.io.IOException;
 
@@ -110,6 +112,14 @@ public class Executive {
         // comparable, comparator
         // ComparableComparatorExploration comparableComparatorExploration = new ComparableComparatorExploration();
         // comparableComparatorExploration.executive();
+
+        // RegEx (regular expression)
+        // RegExExploration regExExploration = new RegExExploration();
+        // regExExploration.executive();
+
+        // lambda expression
+        // FunctionalInterfaceExploration functionalInterfaceExploration = new FunctionalInterfaceExploration();
+        // functionalInterfaceExploration.executive();
 
     }
 }
